@@ -1,0 +1,9 @@
+*.a
+*.o
+a.out
+*.vscode
+*.dSYM/
+valgrind*
+*.swp
+server
+client
